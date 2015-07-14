@@ -29,7 +29,6 @@ _styles.contents += ("less/cds.less",)
 
 js = Bundle(
     "js/cds-settings.js",
-    "js/app.js",
     "js/main.js",
     output="cds.js",
     weight=91,
